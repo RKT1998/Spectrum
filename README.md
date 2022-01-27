@@ -5,6 +5,3 @@
 主要功能代码组件都在src下的charts里：Spectrum.js Waterfall.js Constellation.js
 
 app.jsx里边有使用说明
-npm start就可以用
-
-孙健鹏 你是真傻逼啊 ！！！
